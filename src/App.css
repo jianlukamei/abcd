@@ -1,0 +1,38 @@
+/* .App {
+  text-align: center;
+  /* background-color: black; 
+  font-family: "Poppins", sans-serif;
+} */
+/* sidebar style */
+/* .sidebar{
+  width: 100px;
+  background-color: white;
+}
+.sidebar_menulist{
+  width: 30px;
+}
+.sidebar_menulist:hover{
+    padding: 10px;
+    border-radius: 15%;
+    background-color: #5932EA;
+    width: 45px;
+}
+.sidebar_logo{
+  width: 50px;
+}
+.profilepic{
+  width: 60px;
+} */
+
+a{
+  text-decoration: none !important;
+}
+/* index.css */
+.hide-scrollbar {
+  overflow: auto;           /* allow scrolling! */
+  -ms-overflow-style: none; /* IE & Edge */
+  scrollbar-width: none;    /* Firefox */
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;            /* Chrome, Safari, Opera */
+}
